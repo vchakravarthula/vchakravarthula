@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Venkataramana 👋
 
-<!--
-**vchakravarthula/vchakravarthula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Senior Software Engineer** with over 13 years of experience at **Microsoft**, specializing in architecting planet-scale cloud infrastructure, distributed systems, and security control planes. 
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Expertise
+- **Languages:** C#, .NET (Core/6-8), Python, SQL, KQL (Kusto).
+- **Cloud & Infrastructure:** Azure (Compute, Storage, Messaging), Service Fabric, Zero Trust Architecture.
+- **Security:** Managed Service Identity (MSI), RBAC, Network Security Perimeters (NSP).
+- **Data & AI:** Azure OpenAI, Synapse Analytics, Cosmos DB, Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Impact at Scale
+- **Planet-Scale Engineering:** Managed global Zero Trust infrastructure for petabyte-scale analytics across 20+ regions.
+- **Performance Optimization:** Improved telemetry retrieval speed by **97%** (3 mins to 5 seconds) for OneLake APIs.
+- **Cost Efficiency:** Reduced storage redundancy costs by **60%** through large-scale migrations to ZRS.
+- **Security by Design:** Reduced attack surfaces by **40%** by architecting Network Security Perimeters for 100+ global Azure resources.
+
+### 📂 Featured Project
+- **[ParkingLotConsoleApp](https://github.com/vchakravarthula/ParkingLotConsoleApp):** A deep dive into OOD and SOLID principles using C# to solve complex resource allocation problems.
+
+---
+📫 **How to reach me:** [vchakravarthula@gmail.com](mailto:vchakravarthula@gmail.com)  
+📄 **Experience:** 13 Years at Microsoft (Azure Synapse, OneLake, Singularity AI, D365)
