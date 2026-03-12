@@ -20,3 +20,12 @@ I am a **Senior Software Engineer** with over 13 years of experience at **Micros
 ---
 📫 **How to reach me:** [vchakravarthula@gmail.com](mailto:vchakravarthula@gmail.com)  
 📄 **Experience:** 13 Years at Microsoft (Azure Synapse, OneLake, Singularity AI, D365)
+
+
+---
+
+### 📊 GitHub Statistics
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vchakravarthula&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vchakravarthula&layout=compact&theme=dark&langs_count=6" />
+</p>
